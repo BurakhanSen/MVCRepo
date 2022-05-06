@@ -129,19 +129,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\burakhan.sen\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\worksplace\\MVCTest\\MVCTest.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\MVCRepo3\\MVCTest.csproj",
       "projectName": "MVCTest",
-      "projectPath": "C:\\worksplace\\MVCTest\\MVCTest.csproj",
-      "packagesPath": "C:\\Users\\burakhan.sen\\.nuget\\packages\\",
-      "outputPath": "C:\\worksplace\\MVCTest\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Source\\Repos\\MVCRepo3\\MVCTest.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Source\\Repos\\MVCRepo3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\burakhan.sen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -182,12 +182,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.24, 3.1.24]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -196,7 +190,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

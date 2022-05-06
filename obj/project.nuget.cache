@@ -1,14 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NPhipr9SOnrMI3poF9WAd7bAp1YRZbG63Zf/GZiVT6+lbZwTpXuqC5XXyOLEagbo4H80ZrvKeu8To3qz6ZDSEw==",
+  "dgSpecHash": "2LQVn3u4shNOPME2Dfoh7Cq+J7Kxoly7U4NTwux7Gos3VeiItKituc1ENZ5lwl1m8lohX4fMlvYMJO7x9r4Xsg==",
   "success": true,
-  "projectFilePath": "C:\\worksplace\\MVCTest\\MVCTest.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Source\\Repos\\MVCRepo3\\MVCTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\burakhan.sen\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
-    "C:\\Users\\burakhan.sen\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.0.0\\fluentvalidation.aspnetcore.11.0.0.nupkg.sha512",
-    "C:\\Users\\burakhan.sen\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.0.0\\fluentvalidation.dependencyinjectionextensions.11.0.0.nupkg.sha512",
-    "C:\\Users\\burakhan.sen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
-    "C:\\Users\\burakhan.sen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.0.0\\fluentvalidation.aspnetcore.11.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.0.0\\fluentvalidation.dependencyinjectionextensions.11.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
   ],
   "logs": []
 }
