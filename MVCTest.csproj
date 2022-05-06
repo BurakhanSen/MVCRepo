@@ -5,11 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="FluentValidation.AspNetCore" Version="11.0.0" />
+    <Folder Include="Views\Partials" />
+    <Folder Include="wwwroot\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.0.0" />
   </ItemGroup>
 
 </Project>

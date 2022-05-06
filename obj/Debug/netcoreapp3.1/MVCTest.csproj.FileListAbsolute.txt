@@ -101,3 +101,8 @@ C:\Users\PC\Source\Repos\MVCRepo3\obj\Debug\netcoreapp3.1\MVCTest.csproj.CopyCom
 C:\Users\PC\Source\Repos\MVCRepo3\obj\Debug\netcoreapp3.1\MVCTest.dll
 C:\Users\PC\Source\Repos\MVCRepo3\obj\Debug\netcoreapp3.1\MVCTest.pdb
 C:\Users\PC\Source\Repos\MVCRepo3\obj\Debug\netcoreapp3.1\MVCTest.genruntimeconfig.cache
+C:\worksplace\MVCTest\bin\Debug\netcoreapp3.1\libman.json
+C:\worksplace\MVCTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\worksplace\MVCTest\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\worksplace\MVCTest\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\worksplace\MVCTest\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Product\Default.cshtml.g.cs
